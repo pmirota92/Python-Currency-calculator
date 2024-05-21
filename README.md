@@ -8,6 +8,9 @@ Welcome to the Currency Converter Calculator! This application allows you to con
 - **User-Friendly Interface**: Simple and intuitive design using Tkinter.
 - **Multiple Currency Support**: Supports conversion between multiple currencies.
 - **Clear Functionality**: Easily clear input and output fields for new conversions.
+- 
+## Currency Converter App Demo
+![ Python-Currency-calculator](details/CurrencyConverter.gif)
 
 ## Installation
 
